@@ -4,15 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+What is this?
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I write because it mirrors the mind. There's an elusive difference between
+knowing something and feeling like you know something. Writing is a tool
+to test ideas and discover the depths of my own understanding.
+Most of the time, it's very shallow.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I write about my interests, beliefs, and things I learn.
 
+This website is built with [Jekyll](https://github.com/jekyll/jekyll)
 
-[jekyll-organization]: https://github.com/jekyll
