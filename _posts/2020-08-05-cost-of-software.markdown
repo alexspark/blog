@@ -17,5 +17,5 @@ Next Question:
 2. Why am I not rich and on the cover of magazines?
 
 
-Futher reading:
+Further reading:
 - [What is Amazon?](https://zackkanter.com/2019/03/13/what-is-amazon)
