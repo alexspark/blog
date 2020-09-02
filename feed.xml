@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="/blog/" rel="alternate" type="text/html" /><updated>2020-09-02T06:40:49+00:00</updated><id>/blog/feed.xml</id><title type="html">Alex Park</title><subtitle>This is where Alex Park writes his thoughts, interests, beliefs.</subtitle><entry><title type="html">Writing better</title><link href="/blog/writing/2020/09/02/writing-better.html" rel="alternate" type="text/html" title="Writing better" /><published>2020-09-02T06:17:43+00:00</published><updated>2020-09-02T06:17:43+00:00</updated><id>/blog/writing/2020/09/02/writing-better</id><content type="html" xml:base="/blog/writing/2020/09/02/writing-better.html">&lt;p&gt;At the ripe age of 32, I’m starting to appreciate the power of writing. The education system
+could do a lot more to inspire students what writing can do for them instead of trying to
+teach what good writing is with brute force. There are many purposes for writing, but my
+favorites are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;to convince someone to do something&lt;/li&gt;
+  &lt;li&gt;to change someone else’s mind&lt;/li&gt;
+  &lt;li&gt;to change your own mind, and&lt;/li&gt;
+  &lt;li&gt;to test your own understanding&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;It wasn’t until I started working that I saw the wide range of writing skill on the internet
+and amongst my coworkers. About 30% of my replies on Slack are “wdym by &lt;strong&gt;__&lt;/strong&gt;” or “rephrase?”
+Now that a lot of the workforce are working from home, it shows how important the medium through which
+we work together is. If slack and e-mail are the roads and highways through which we communicate, our words
+are the cars, and I find that most of us are driving ones that are decades old, check engine light on, and
+needed an oil change 5K miles ago.&lt;/p&gt;
+
+&lt;p&gt;So, at the ripe age of 32, I feel that I know nothing of writing, and hope to improve.&lt;/p&gt;
+
+&lt;p&gt;Next Question:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Can I create a writing system that will always help me write better?&lt;/li&gt;
+  &lt;li&gt;How much do other people care about writing?&lt;/li&gt;
+  &lt;li&gt;Why do so many professional talk with jargon?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Further reading:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.plainenglish.co.uk/how-to-write-in-plain-english.html&quot;&gt;How to write in plain english&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style#words-to-avoid&quot;&gt;Words to avoid&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.gov.uk/guidance/content-design/writing-for-gov-uk&quot;&gt;Writing for gov.uk&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.hemingwayapp.com&quot;&gt;Hemingway app&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ia.net/writer/blog/introducing-style-check&quot;&gt;iA Writer style check&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="writing" /><summary type="html">At the ripe age of 32, I’m starting to appreciate the power of writing. The education system could do a lot more to inspire students what writing can do for them instead of trying to teach what good writing is with brute force. There are many purposes for writing, but my favorites are:</summary></entry><entry><title type="html">The Cost of Software</title><link href="/blog/software/2020/08/05/cost-of-software.html" rel="alternate" type="text/html" title="The Cost of Software" /><published>2020-08-05T07:23:43+00:00</published><updated>2020-08-05T07:23:43+00:00</updated><id>/blog/software/2020/08/05/cost-of-software</id><content type="html" xml:base="/blog/software/2020/08/05/cost-of-software.html">&lt;p&gt;One of the things I love about software is that the marginal cost is near zero. Marginal cost is how much
+it costs to make an additional unit of something. Let’s say you’re selling lemonade for $2, but it costs you $1 to make it.
+Even if your business goes viral, and sell one million cups of lemonade, your cost per cup won’t change too much from $1. Not to
+mention all of the other work you’ll need to do to meet the demand for one million customers. On the other hand, if you sell
+a game like solitaire for $1. If it cost you $100,000 to build that game, every unit of the game you sell costs you almost near $0. 
+You just need to sell 100,000 units of solitaire to break even, and then every additional unit you sell is pure profit.&lt;/p&gt;
+
+&lt;p&gt;Next Question:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;What’s the bad news about software?&lt;/li&gt;
+  &lt;li&gt;Why am I not rich and on the cover of magazines?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Further reading:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zackkanter.com/2019/03/13/what-is-amazon&quot;&gt;What is Amazon?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="software" /><summary type="html">One of the things I love about software is that the marginal cost is near zero. Marginal cost is how much it costs to make an additional unit of something. Let’s say you’re selling lemonade for $2, but it costs you $1 to make it. Even if your business goes viral, and sell one million cups of lemonade, your cost per cup won’t change too much from $1. Not to mention all of the other work you’ll need to do to meet the demand for one million customers. On the other hand, if you sell a game like solitaire for $1. If it cost you $100,000 to build that game, every unit of the game you sell costs you almost near $0. You just need to sell 100,000 units of solitaire to break even, and then every additional unit you sell is pure profit.</summary></entry></feed>
